@@ -1,1 +1,0 @@
-import{j as s}from"./index-Do9N5Bdr.js";const t=()=>s.jsxs("div",{children:[s.jsx("h1",{children:"My Students"}),s.jsx("p",{children:"Here you will see a list of your assigned students."}),s.jsx("p",{children:"Content coming soon..."})]});export{t as default};

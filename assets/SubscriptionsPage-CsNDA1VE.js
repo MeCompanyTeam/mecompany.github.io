@@ -1,1 +1,0 @@
-import{j as s}from"./index-Do9N5Bdr.js";const n=()=>s.jsxs("div",{children:[s.jsx("h1",{children:"My Subscriptions"}),s.jsx("p",{children:"This section will allow you to manage your subscription plans and billing details."}),s.jsx("p",{children:"Content coming soon..."})]});export{n as default};

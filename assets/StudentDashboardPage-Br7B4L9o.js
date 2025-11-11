@@ -1,1 +1,0 @@
-import{a as r,j as s}from"./index-Do9N5Bdr.js";const o=()=>{const{profile:e}=r();return s.jsxs("div",{children:[s.jsxs("h1",{children:["Welcome, ",e==null?void 0:e.first_name,"!"]}),s.jsx("p",{children:"This is your student dashboard. Here you will find your courses, grades, and assignments."}),s.jsx("p",{children:"More features coming soon..."})]})};export{o as default};

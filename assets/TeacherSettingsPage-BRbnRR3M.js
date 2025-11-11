@@ -1,1 +1,0 @@
-import{j as e}from"./index-Do9N5Bdr.js";const n=()=>e.jsxs("div",{children:[e.jsx("h1",{children:"Teacher Settings"}),e.jsx("p",{children:"Manage your teacher profile and preferences."}),e.jsx("p",{children:"Content coming soon..."})]});export{n as default};

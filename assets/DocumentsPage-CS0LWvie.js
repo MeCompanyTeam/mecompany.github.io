@@ -1,1 +1,0 @@
-import{j as n}from"./index-Do9N5Bdr.js";const s=()=>n.jsxs("div",{children:[n.jsx("h1",{children:"My Documents"}),n.jsx("p",{children:"This section will contain your invoices, reports, and other documents."}),n.jsx("p",{children:"Content coming soon..."})]});export{s as default};
