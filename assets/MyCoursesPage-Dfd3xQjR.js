@@ -1,0 +1,1 @@
+import{j as s}from"./index-Do9N5Bdr.js";const r=()=>s.jsxs("div",{children:[s.jsx("h1",{children:"My Courses"}),s.jsx("p",{children:"Here you will manage your courses."}),s.jsx("p",{children:"Content coming soon..."})]});export{r as default};
